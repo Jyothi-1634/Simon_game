@@ -13,7 +13,9 @@ Interactive Gameplay: Players must click the buttons in the correct order, match
 
 Progressive Difficulty: Each round adds a new step to the sequence, making the game increasingly challenging.
 
+
 How to Play:
+
 Start the game by pressing any key on the keypad.
 
 Watch the sequence of flashing colors.
