@@ -21,3 +21,5 @@ Watch the sequence of flashing colors.
 Repeat the sequence by clicking the buttons in the correct order.
 
 If you succeed, a new color will be added to the sequence. If you make a mistake, the game ends.
+
+https://jyothi-1634.github.io/Simon_game/
